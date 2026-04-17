@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pDmt4Pg9lbI=",
+  "dgSpecHash": "hP9SY52lxzk=",
   "success": true,
-  "projectFilePath": "C:\\_GLJ\\_GitProj\\_MyGit\\00_Working\\LiteMonitor\\LiteMonitor.csproj",
+  "projectFilePath": "c:\\_GLJ\\_GitProj\\_MyGit\\00_Working\\LiteMonitor\\LiteMonitor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\blacksharp.core\\1.0.7\\blacksharp.core.1.0.7.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\diskinfotoolkit\\1.1.2\\diskinfotoolkit.1.1.2.nupkg.sha512",

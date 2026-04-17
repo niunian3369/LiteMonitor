@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LiteMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.3.4.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.3.4+aec8e562640355878bdab6ba8cb129340e57accd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.3.4+031fd3fa10a1ec8c5eca4c2ca259d8c3096fc01b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiteMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiteMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,6 +12,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LiteMonitor.Updater
-build_property.ProjectDir = C:\_GLJ\_GitProj\_MyGit\00_Working\LiteMonitor\LiteMonitor.Updater\
+build_property.ProjectDir = c:\_GLJ\_GitProj\_MyGit\00_Working\LiteMonitor\LiteMonitor.Updater\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright © 2025-2026 LiteMonitor Team")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Automatic update component for LiteMonitor system monitoring tool.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.2.5.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aec8e562640355878bdab6ba8cb129340e57accd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+031fd3fa10a1ec8c5eca4c2ca259d8c3096fc01b")]
 [assembly: System.Reflection.AssemblyProductAttribute("LiteMonitor Auto Updater")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LiteMonitor.Updater")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.2.5.0")]

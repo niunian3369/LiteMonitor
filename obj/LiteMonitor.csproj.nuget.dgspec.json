@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\_GLJ\\_GitProj\\_MyGit\\00_Working\\LiteMonitor\\LiteMonitor.csproj": {}
+    "c:\\_GLJ\\_GitProj\\_MyGit\\00_Working\\LiteMonitor\\LiteMonitor.csproj": {}
   },
   "projects": {
-    "C:\\_GLJ\\_GitProj\\_MyGit\\00_Working\\LiteMonitor\\LiteMonitor.csproj": {
+    "c:\\_GLJ\\_GitProj\\_MyGit\\00_Working\\LiteMonitor\\LiteMonitor.csproj": {
       "version": "1.3.4",
       "restore": {
-        "projectUniqueName": "C:\\_GLJ\\_GitProj\\_MyGit\\00_Working\\LiteMonitor\\LiteMonitor.csproj",
+        "projectUniqueName": "c:\\_GLJ\\_GitProj\\_MyGit\\00_Working\\LiteMonitor\\LiteMonitor.csproj",
         "projectName": "LiteMonitor",
-        "projectPath": "C:\\_GLJ\\_GitProj\\_MyGit\\00_Working\\LiteMonitor\\LiteMonitor.csproj",
+        "projectPath": "c:\\_GLJ\\_GitProj\\_MyGit\\00_Working\\LiteMonitor\\LiteMonitor.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\_GLJ\\_GitProj\\_MyGit\\00_Working\\LiteMonitor\\obj\\",
+        "outputPath": "c:\\_GLJ\\_GitProj\\_MyGit\\00_Working\\LiteMonitor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
